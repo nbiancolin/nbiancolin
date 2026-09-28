@@ -1,28 +1,7 @@
-<!---
-
-# Nicholas Biancolin
-
-*that's me!*   
-* UofT EngSci 2t6 (eventually Machine Learning Major?)   
-* Sometimes I code stuff because its fun,   
-    * Sometimes I code because I have to.    
-     
-Djikstra's algorithm goes hard
-
-## Some Cool Projects:
-* Image Cropping/Resizing Tool
-*Written in C, a program that implements Seam Carving, which is a content-aware image resizing technique where the image is reduced in size by one pixel of width at a time*
-
-* Zone Wars Minecraft Spigot Plugin
-*A Minecraft Spigot Plugin that recreates the fortnite game mode Zone Wars in Minecraft.*
-
-
---->
-
 <h1 align="center">Hi 👋, I'm Nicholas Biancolin</h1>
-<h3 align="center">A 3rd Year Computer Engineering student at the University of Toronto</h3>
+<h3 align="center">A 4th Year Computer Engineering student at the University of Toronto</h3>
 
-- 💬 Ask me  **how I feel about Java**
+- 💬 Ask me about **Music Technology**
 
 - 📫 How to reach me:  **n.biancolin@mail.utoronto.ca**
 
@@ -30,7 +9,7 @@ Djikstra's algorithm goes hard
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nbiancolin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nbiancolin" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/nbiancolin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nbiancolin" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/nbiancolin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholasbiancolin" height="30" width="40" /></a>
 <a href="https://instagram.com/nnote_music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nnote_music" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nbiancolin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nbiancolin" height="30" width="40" /></a>
